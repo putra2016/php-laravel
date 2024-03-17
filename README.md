@@ -2,7 +2,7 @@
 
 <p>You should create an adminpanel-like system to manage Clients, Projects, Tasks with CRUD operations.</p>
 
-<p>A few screenshots from the example solution:</p>
+<p>A few screenshots from the example solutions:</p>
 
 <p><img alt="CRM Demo 1" src="https://github.com/skputra-aol/Php-Laravel/blob/master/Data-Master-App/img/129160013-d5c895d3-92aa-4a32-9a62-d09807f623f9.png?raw=true" /></p>
 
@@ -15,7 +15,7 @@
 
 <p>Here&#39;s the <a href="https://laraveldaily.com/roadmap-learning-path">list of Roadmap features</a> you need to try to implement in your code:</p>
 
-<p><strong>Routing Advanced</strong></p>
+<p><strong>Create Routing Advanced</strong></p>
 
 <ul>
 	<li>Route Model Binding in Resource Controllers</li>
