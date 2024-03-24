@@ -1,4 +1,4 @@
-<h1>Master Data - for Managing Clients</h1>
+<h1>Master Data - for Managing about Clients</h1>
 
 <p>You should create an adminpanel-like system to manage Clients, Projects, Tasks with CRUD operations.</p>
 
