@@ -1,5 +1,5 @@
 
-### Installation
+### Installations
 
 The Bootstrap and Vue scaffolding provided by Laravel is located in the `laravel/ui` Composer package, which may be installed using Composer:
 
