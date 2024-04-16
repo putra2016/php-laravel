@@ -5,7 +5,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 
 | Topic | Examples |
 | ----- | ----- |
-| **Routing Advanced** ||
+| **Routing Advance** ||
 | Route Model Binding | [web.php](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Roadmap/blob/main/routes/web.php#L26) <br> [ClientController.php](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Roadmap/blob/main/app/Http/Controllers/ClientController.php#L38) <br>|
 | Route Redirect |[web.php](https://github.com/LaravelDaily/Laravel-Roadmap-Advanced-Beginner-Roadmap/blob/main/routes/web.php#L16) <br>|
 | **Middleware** ||
